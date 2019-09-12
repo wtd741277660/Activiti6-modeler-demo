@@ -34,7 +34,7 @@ server:
 spring:
   profiles: dev
   datasource:
-    url: jdbc:mysql://localhost:3306/activiti6?useUnicode=true&useSSL=false&amp;characterEncoding=utf8&allowMultiQueries=true
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&useSSL=false&amp;characterEncoding=utf8&allowMultiQueries=true
     username: root
     password: 123456
 
